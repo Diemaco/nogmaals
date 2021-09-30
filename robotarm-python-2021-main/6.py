@@ -1,6 +1,5 @@
 from RobotArm import RobotArm
 
-
 robotArm = RobotArm('exercise 6')
 
 for i in range(7):
